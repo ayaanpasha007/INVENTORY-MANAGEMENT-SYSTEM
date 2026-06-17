@@ -106,4 +106,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Author
 
-Maintained by [Ayaan Pasha](https://github.com/<ayaanpasha007>).
+Maintained by [Ayaan Pasha] (https://github.com/<ayaanpasha007>).

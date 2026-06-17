@@ -2,7 +2,6 @@
 
 A lightweight, console-based Inventory Management System built in Python. It allows you to add, remove, search, and update products, view the current inventory, and calculate total stock value — all from a simple command-line menu.
 
-![Sample Output](output_example.png)
 
 ## Features
 
